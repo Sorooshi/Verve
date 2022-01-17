@@ -30,9 +30,9 @@ To the best of my experience, the Random Forest (RF) classifier is a pretty robu
 - runs efficiently on a large dataset.
 
 Cons:
-RFs are found to be biased while dealing with categorical variables.
-slow Training.
-not suitable for linear methods with a lot of sparse features.
+- RFs are found to be biased while dealing with categorical variables.
+- slow Training.
+- not suitable for linear methods with a lot of sparse features.
 
 
 
